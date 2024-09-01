@@ -1,13 +1,13 @@
 ## ABOUT ME
 
-name : ```Nayan Developer```</br>
-age : ```20```</br>
-link : [facebook](https://www.facebook.com/profile.php?id=100000959749712).</br>
+name : ```Shakil Developer```</br>
+age : ```19```</br>
+link : [facebook](https://www.facebook.com/GOLAPI.NUNUR.ODHIKARI).</br>
 
 ## CREDITS
 
 original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [NAYAN](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+modified : [SHAKIL](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Shakil Developer```
 
 ## CONFIG AND CUSTOM
 
@@ -38,15 +38,15 @@ approve remove 4834812366643016
 
 ## Login System
 
-If you want to login with an email password, go to Nayan/configs/Nayan.json and set your email password ``email``, ``password`` value
+If you want to login with an email password, go to Shakil/configs/Shakil.json and set your email password ``email``, ``password`` value
 
-If You Use fbstate go to ``Nayanstate.json`` and past fbstate
+If You Use fbstate go to ``Shakilstate.json`` and past fbstate
 
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
+if you run use ``email`` and ``password``, use Shakil.json(``saveState:false``); otherwise, use Shakil.json(``saveState:true``)
 
 ## HOW TO GET 'NayanSTATE.JSON' DATA?
 
-to get ``Nayanstate.json`` data, please follow these steps :</br>
+to get ``Shakilstate.json`` data, please follow these steps :</br>
 
 step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
 
@@ -64,7 +64,7 @@ step 7 : after logging in, tap on the three dots again and scroll down to find t
 
 step 8 : click on it and then click on ``copy fbstate``.</br>
 
-step 9 : paste the copied data into the ``Nayanstate.json`` file.</br>
+step 9 : paste the copied data into the ``Shakilstate.json`` file.</br>
 
 step 10 : finally, click on ``run`` to initiate the bot.</br>
 
